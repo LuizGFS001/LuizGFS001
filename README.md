@@ -91,9 +91,10 @@
 
 <div align="center">
 
-![Luiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizGFS001&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGFS001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800)
+<a href="https://github.com/LuizGFS001">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizGFS001&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGFS001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
+</a>
 
 </div>
 
