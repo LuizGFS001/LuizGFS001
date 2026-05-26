@@ -3,8 +3,8 @@
 # Olá, eu sou o Luiz Gustavo 👋
 ### *Hi, I'm Luiz Gustavo*
 
-**Estudante de Ciência da Computação | Transição para Dados**  
-*Computer Science Student | Transitioning into Data*
+**Estudante de Ciência da Computação**  
+*Computer Science Student*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-gustavo00)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lg.gustavo554@gmail.com)
@@ -19,8 +19,8 @@
 
 🇺🇸 I'm transitioning into Data, building a solid technical foundation through real-world projects. Currently studying Computer Science at UNINOVE (graduating 2029), with advanced English proficiency.
 
-- 🎯 Buscando estágio em **Análise de Dados** ou **Engenharia de Dados** em São Paulo
-- 🎯 Looking for internship in **Data Analysis** or **Data Engineering** in São Paulo
+- 🎯 Buscando estágio em **Análise de Dados** ou **Engenharia de Dados**
+- 🎯 Looking for internship in **Data Analysis** or **Data Engineering**
 - 🌱 Atualmente estudando / Currently studying: `dbt Core` · `Great Expectations` · `Spark`
 - 🏥 Background em Enfermagem — visão analítica e atenção a detalhes
 
