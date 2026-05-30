@@ -63,6 +63,16 @@
 
 ---
 
+### 📊 [Bolsa Família 2020 — Análise Exploratória](https://github.com/LuizGFS001/bolsa-familia-2020-eda)
+  > ~160 milhões de pagamentos (17,6 GB) processados com DuckDB · 15 perguntas sobre cobertura regional e impacto da
+  pandemia · Pipeline bronze → silver → gold
+  > *~160M payments (17.6 GB) processed with DuckDB in-process · 15 questions on pandemic impact & regional coverage ·
+  Bronze → silver → gold pipeline*
+
+  `DuckDB` `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
+
+---
+
 ### 🏀 [NBA Team Stats Analysis — 2022/23 & 2023/24](https://github.com/LuizGFS001/nba-team-stats-analysis)
 > Pipeline SQL completo no Databricks · 15 perguntas de negócio respondidas · Arquitetura bronze → silver  
 > *Full SQL pipeline on Databricks · 15 business questions answered · Bronze → silver architecture*
